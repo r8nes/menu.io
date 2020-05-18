@@ -1,9 +1,9 @@
 # Привет, меня зовут Дима.
 ______
-+ #### Age: 26
-+ #### Location: Moscow
-+ #### Languages: English - B2, Spain - A2
-+ #### Stack: HTML, CSS, JS, REDUX, REACT
+* #### Age: 26
+* #### Location: Moscow
+* #### Languages: English - B2, Spain - A2
+* #### Stack: HTML, CSS, JS, REDUX, REACT
 ______
 Ниже представлены небольшие проекты \ работы для ознакомления в порядке возрастания опыта. 
 
