@@ -15,6 +15,8 @@ ______
 
     - Проект [Star Wars][3]
     
+    - Проект [Штукатурка стен][7]  `В процессе`
+    
 + Интерактивные страницы. (+JS)
 
     - Проект [Delivery][4] (Ссылка на [комментарии][5])
@@ -37,3 +39,4 @@ _____
 [4]: https://r8nes.github.io/delivery/     "Delivery - сайт для заказа еды"
 [5]: https://github.com/r8nes/delivery/blob/master/README.md      "Ссылка на README.md"
 [6]: https://github.com/r8nes/social_page     "Социальная сеть"
+[7]: https://r8nes.github.io/dry_wall_project/     "Верстка страницы 'ГИПСОЛИТ штукатурка стен'"
