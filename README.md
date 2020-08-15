@@ -11,8 +11,6 @@ ______
 
     - Проект [Бэтмен][1]
 
-    - Проект [Cats Page][2]
-
     - Проект [Star Wars][3]
     
     - Проект [Штукатурка стен][7]  `Не закончен`
@@ -38,7 +36,6 @@ _____
 
 
 [1]: https://r8nes.github.io/batman_page/     "Верстка страницы 'Промо к фильму Бэтмен 2021'"
-[2]: https://r8nes.github.io/cats_page/      "Верстка страницы с кошками - тестируем Bootstrap"
 [3]: https://r8nes.github.io/star_wars_9_page/      "Верстка страницы 'Промо к фильму Star Wars. Скайуокер. Восход'"
 [4]: https://r8nes.github.io/delivery/     "Delivery - сайт для заказа еды"
 [5]: https://github.com/r8nes/delivery/blob/master/README.md      "Ссылка на README.md"
