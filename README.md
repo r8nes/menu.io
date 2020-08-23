@@ -25,7 +25,7 @@ ______
     
 + REACT проекты.
 
-    - <Репозиторий на Проект [Социальная сеть][6]  /> `Отложен`
+    - <Репозиторий на Проект Social Page /> `Отложен`
 
 _____
  >*Я знаю, что ничего не знаю*  
@@ -39,7 +39,7 @@ _____
 [3]: https://r8nes.github.io/star_wars_9_page/      "Верстка страницы 'Промо к фильму Star Wars. Скайуокер. Восход'"
 [4]: https://r8nes.github.io/delivery/     "Delivery - сайт для заказа еды"
 [5]: https://github.com/r8nes/delivery/blob/master/README.md      "Ссылка на README.md"
-[6]: https://github.com/r8nes/social_page     "Социальная сеть"
+
 [7]: https://r8nes.github.io/dry_wall_project/     "Верстка страницы 'ГИПСОЛИТ штукатурка стен'"
 [8]: https://r8nes.github.io/test_work/     "Одна из тестовых работ работодателя"
 [9]: https://r8nes.github.io/test/index.html     "Одна из тестовых работ работодателя"
